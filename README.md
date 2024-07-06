@@ -8,5 +8,3 @@ Finding the users who contribute the most to the website, such as those who uplo
 Highlighting which songs are the most listened to by users.
 By analyzing these and other factors, we can gain a clearer picture of user behavior and preferences, which will help in making informed decisions to enhance the website and its offerings.
 
-"# Melody_Metrics_Analysis" 
-"# Melody_Metrics_Analysis" 
